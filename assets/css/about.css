@@ -1,3 +1,7 @@
+.josefine-sans{
+    font-family: Josefin Sans;
+}
+
 .text-justify {
   text-align: left;
 }
@@ -23,6 +27,7 @@
   font-size: medium;
   color: antiquewhite;
   width: 100%;
+  background-color: #df980c;
 }
 .btn:hover {
   color: antiquewhite;
@@ -64,4 +69,7 @@
 }
 .card-text{
   margin-bottom:80px;
+}
+body{
+  background-color: #FFFDF5;
 }
